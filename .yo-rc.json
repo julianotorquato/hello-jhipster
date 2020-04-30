@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.julianotorquato07",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "helloJhipster",
+    "packageName": "com.julianotorquato07",
+    "packageFolder": "com/julianotorquato07",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDhkOTE3NDhkNmQxYTE0ZmJiZjkxZDU3YTg3YjU2MDM5NjRlZjE3NjM0MmEzNjQ2OTlhZDY3YjY4YTc4NjU3OTUyNGVjNGM5NDk1ZjViMDAwOGY1YjU5MGJjMWM5NTk4MWQwNTRmZjdiMTE0YzkwYTU2YmFiMWUzODcwMTRjYWQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1588209888212,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": ["pt-br", "en"],
+    "blueprints": []
+  }
+}
